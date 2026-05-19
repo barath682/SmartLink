@@ -82,7 +82,7 @@ app.use(express.json());
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://your-frontend.vercel.app"
+        "https://smart-link-tawny.vercel.app"
     ],
     credentials: true
 }));
