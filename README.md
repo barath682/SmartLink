@@ -214,8 +214,15 @@ Video Link: https://drive.google.com/drive/folders/1tOPm_luRzVtB2Tdwpm7mzQsujFXh
 
 
 ## Deployment
-# AWS EC2
 
+# Vercel
+Frontend: https://smart-link-tawny.vercel.app
+
+# Render
+Backend: https://smartlink-30rt.onrender.com
+
+
+# AWS EC2
 Frontend: http://98.86.79.84
 Backend: http://98.86.79.84:5000
 

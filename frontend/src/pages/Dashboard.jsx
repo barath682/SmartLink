@@ -394,6 +394,7 @@ if (loading) {
 
       {/* Navbar */}
       <Navbar />
+    
 
       {/* Content */}
       <div className="p-6">
